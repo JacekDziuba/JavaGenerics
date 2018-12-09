@@ -6,7 +6,7 @@ public abstract class Player {
 
     private String name;
 
-    // == consteuctor ==
+    // == constructor ==
 
     public Player(String name) {
         this.name = name;
